@@ -1,0 +1,8 @@
+/Users/Riso/AngularCLI-.NETCoreWebApi/demoapplication/bin/Debug/netcoreapp1.1/demoapplication.deps.json
+/Users/Riso/AngularCLI-.NETCoreWebApi/demoapplication/bin/Debug/netcoreapp1.1/demoapplication.runtimeconfig.json
+/Users/Riso/AngularCLI-.NETCoreWebApi/demoapplication/bin/Debug/netcoreapp1.1/demoapplication.runtimeconfig.dev.json
+/Users/Riso/AngularCLI-.NETCoreWebApi/demoapplication/bin/Debug/netcoreapp1.1/demoapplication.dll
+/Users/Riso/AngularCLI-.NETCoreWebApi/demoapplication/bin/Debug/netcoreapp1.1/demoapplication.pdb
+/Users/Riso/AngularCLI-.NETCoreWebApi/demoapplication/obj/Debug/netcoreapp1.1/demoapplication.AssemblyInfo.cs
+/Users/Riso/AngularCLI-.NETCoreWebApi/demoapplication/obj/Debug/netcoreapp1.1/demoapplication.dll
+/Users/Riso/AngularCLI-.NETCoreWebApi/demoapplication/obj/Debug/netcoreapp1.1/demoapplication.pdb

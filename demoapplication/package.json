@@ -24,6 +24,8 @@
     "@angular/router": "^4.0.0",
     "core-js": "^2.4.1",
     "rxjs": "^5.1.0",
+    "aspnet-prerendering": "^2.0.5",
+    "aspnet-webpack": "^1.0.29",
     "zone.js": "^0.8.4"
   },
   "devDependencies": {
@@ -63,6 +65,8 @@
     "istanbul-instrumenter-loader": "^2.0.0",
     "style-loader": "^0.13.1",
     "stylus-loader": "^3.0.1",
-    "url-loader": "^0.5.7"
+    "url-loader": "^0.5.7",
+    "html-webpack-plugin": "^2.28.0",
+    "webpack-hot-middleware": "^2.12.2"
   }
 }
