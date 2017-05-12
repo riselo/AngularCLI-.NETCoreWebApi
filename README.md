@@ -1,4 +1,4 @@
-## Creating an Angular 4 Cli Application with .NET Core Web Api and Webpack 2 + Hot Module Replacement 
+## Creating an Angular 4 CLI Application with .NET Core Web Api and Webpack 2 + Hot Module Replacement 
 
 ### Step 1 - Install Prerequisites
 Make sure you have installed the latest version of Node.js, Angular CLI, Webpack 2
