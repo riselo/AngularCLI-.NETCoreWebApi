@@ -16,7 +16,7 @@ ng new demoapplication  --style=scss
 ```
 
 1. cd into the directory you just created and rename the src folder to 'Client'
-2. open the `.angular-cli.json` file and edit the 'root' to Client and outDir to "dist". Also, edit the lint.project to say Client instead of src
+2. open the `.angular-cli.json` file and edit the root to 'Client' and outDir to 'wwwroot'. Also, edit the lint.project to say Client instead of src
 3. Type in `ng eject` in the root of your project. This will generate a webpack.config.js file
 4. Open the webpack.config.js file and locate 'output'. Underneath the path add the following `"publicPath": "/wwwroot/"`
 
